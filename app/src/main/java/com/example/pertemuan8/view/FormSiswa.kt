@@ -42,3 +42,9 @@ fun FormSiswa(
     onSubmitButtonClicked: (MutableList<String>) -> Unit,
     modifier: Modifier = Modifier
 ){
+    //edit 2 : tambahakan 4 variable dibawah ini
+    var txtNama by rememberSaveable { mutableStateOf("") }
+    var txtAlamat by remember { mutableStateOf("") }
+    var txtGender by remember { mutableStateOf("") }
+    val listData: MutableList<String> = mutableListOf(txtNama, txtGender, txtAlamat)
+
