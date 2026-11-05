@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pertemuan 8</string>
+    <string name="Laki">Laki-laki</string>
+    <string name="Wanita">Wanita</string>
+    <string name="submit">Pertemuan 8</string>
+    <string name="back">Pertemuan 8</string>
+    <string name="nama">Pertemuan 8</string>
+    <string name="alamat">Pertemuan 8</string>
+    <string name="gender">Pertemuan 8</string>
+    <string name="detail">Pertemuan 8</string>
+</resources>
