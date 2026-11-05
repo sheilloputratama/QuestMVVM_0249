@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">Pertemuan 8</string>
-    <string name="Laki">Laki-laki</string>
-    <string name="Wanita">Wanita</string>
-    <string name="submit">Pertemuan 8</string>
-    <string name="back">Pertemuan 8</string>
-    <string name="nama">Pertemuan 8</string>
-    <string name="alamat">Pertemuan 8</string>
-    <string name="gender">Pertemuan 8</string>
+    <string name="app_name">Form Pendaftaran</string>
+    <string name="laki">Laki-laki</string>
+    <string name="wanita">Wanita</string>
+    <string name="submit">submit</string>
+    <string name="back">back</string>
+    <string name="nama">nama</string>
+    <string name="alamat">alamat</string>
+    <string name="gender">gender</string>
     <string name="detail">Pertemuan 8</string>
 </resources>
